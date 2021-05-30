@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bedrK6d+dbEjWcq+cYc7ylNiBPeW+pP8FFNn6uXOtr3oUIdvAfTKVsN5RlDUFHASNEhUE8uU52x5rT2Gupvqpw==",
+  "dgSpecHash": "n5u5S4KGkbh30TIh3jHeSVvcycg0sPQtgJqBVWyZLI+fH8/0SipRbonhHui7LPKV1JDQJu2uKCgC9KSfoAhOMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Толя\\source\\repos\\App3\\App3.Android\\App3.Android.csproj",
+  "projectFilePath": "F:\\Git_hub\\cros_platform\\App3\\App3.Android\\App3.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

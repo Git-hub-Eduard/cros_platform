@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Толя\\source\\repos\\App3\\App3.UWP\\App3.UWP.csproj": {}
+    "F:\\Git_hub\\cros_platform\\App3\\App3.UWP\\App3.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Толя\\source\\repos\\App3\\App3.UWP\\App3.UWP.csproj": {
+    "F:\\Git_hub\\cros_platform\\App3\\App3.UWP\\App3.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Толя\\source\\repos\\App3\\App3.UWP\\App3.UWP.csproj",
+        "projectUniqueName": "F:\\Git_hub\\cros_platform\\App3\\App3.UWP\\App3.UWP.csproj",
         "projectName": "App3.UWP",
-        "projectPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3.UWP\\App3.UWP.csproj",
+        "projectPath": "F:\\Git_hub\\cros_platform\\App3\\App3.UWP\\App3.UWP.csproj",
         "packagesPath": "C:\\Users\\Толя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3.UWP\\obj\\",
+        "outputPath": "F:\\Git_hub\\cros_platform\\App3\\App3.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj": {
-                "projectPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj"
+              "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj": {
+                "projectPath": "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj": {
+    "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj",
+        "projectUniqueName": "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj",
         "projectName": "App3",
-        "projectPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj",
+        "projectPath": "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj",
         "packagesPath": "C:\\Users\\Толя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3\\obj\\",
+        "outputPath": "F:\\Git_hub\\cros_platform\\App3\\App3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

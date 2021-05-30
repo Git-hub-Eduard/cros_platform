@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y/Cht5KXmvCgpXfBQqexSAn1oVcI/UBLdP9f7JZHsRuDQL41c45wxs2lHo75YDQ2e83pmHpHpwpBrLjPjldOjw==",
+  "dgSpecHash": "vwozJT6gSpQJ+bYfwnD2jVHr+mnpVq8+e/dw8nRSY/7GVMv/aPS7QSj7d50VblSPXMoVA0Y/eiGTM3OPqjkWgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Толя\\source\\repos\\App3\\App3.UWP\\App3.UWP.csproj",
+  "projectFilePath": "F:\\Git_hub\\cros_platform\\App3\\App3.UWP\\App3.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Толя\\.nuget\\packages\\microsoft.net.native.compiler\\2.1.8\\microsoft.net.native.compiler.2.1.8.nupkg.sha512",
     "C:\\Users\\Толя\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.1.2\\microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",

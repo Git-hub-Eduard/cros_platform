@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oar3nirE0eQm/6+vFDvp9q/RgJwPcTdmmL9XqYItEQYYFPUuDpATKFPDXlINnAaur3CDo4Uuckqlvi5rXDuJvw==",
+  "dgSpecHash": "3xJ6AWUV+6+t0f43qweGB0swlJ2PhKEIC19rsQ0rj3JVptNLJrCn3sL7kw+TVg5G4bsRH08u+4iERLjsKFDFMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj",
+  "projectFilePath": "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Толя\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Толя\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

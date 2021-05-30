@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Толя\\source\\repos\\App3\\App3.Android\\App3.Android.csproj",
+      "projectUniqueName": "F:\\Git_hub\\cros_platform\\App3\\App3.Android\\App3.Android.csproj",
       "projectName": "App3.Android",
-      "projectPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3.Android\\App3.Android.csproj",
+      "projectPath": "F:\\Git_hub\\cros_platform\\App3\\App3.Android\\App3.Android.csproj",
       "packagesPath": "C:\\Users\\Толя\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3.Android\\obj\\",
+      "outputPath": "F:\\Git_hub\\cros_platform\\App3\\App3.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj": {
-              "projectPath": "C:\\Users\\Толя\\source\\repos\\App3\\App3\\App3.csproj"
+            "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj": {
+              "projectPath": "F:\\Git_hub\\cros_platform\\App3\\App3\\App3.csproj"
             }
           }
         }

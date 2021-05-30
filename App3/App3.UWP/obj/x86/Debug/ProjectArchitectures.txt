@@ -1,1 +1,1 @@
-C:\Users\Толя\source\repos\App3\App3.UWP\App3.UWP.csproj;x86
+F:\Git_hub\cros_platform\App3\App3.UWP\App3.UWP.csproj;x86

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=887b19ca-b158-4ac7-a5b3-882edc0e1e1e</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Толя\source\repos\App3\App3.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>F:\Git_hub\cros_platform\App3\App3.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>DF4811700B6F154A009FD4B32E251C4CA5BF8EAF67F9EF32CA34A2262789F2BA</RegisteredManifestChecksum>
+    <LayoutDir>F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>47DC3AD9377DB58A6AF1D3CFD57C2F982B9B646B9F3F965C9A1A0435E7884FEF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>aa416fc0-ffd6-4930-928a-21136e9b9651_1.0.0.0_x86__pvz2xswye9fr4</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>aa416fc0-ffd6-4930-928a-21136e9b9651_pvz2xswye9fr4!App</RegisteredUserModeAppID>
     <RegisteredPackageID>aa416fc0-ffd6-4930-928a-21136e9b9651</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-27T10:11:22.549</Modified>
+      <Modified>2021-05-30T07:59:48.957</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\App3.UWP.exe">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\App3.UWP.exe">
       <PackagePath>entrypoint\App3.UWP.exe</PackagePath>
-      <Modified>2021-05-27T10:11:19.055</Modified>
+      <Modified>2021-05-30T07:59:43.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Толя\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.9\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -718,9 +718,9 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2020-07-13T23:19:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3\bin\Debug\netstandard2.0\App3.dll">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3\bin\Debug\netstandard2.0\App3.dll">
       <PackagePath>App3.dll</PackagePath>
-      <Modified>2021-05-27T10:11:05.086</Modified>
+      <Modified>2021-05-30T08:24:51.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Толя\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -734,156 +734,156 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2020-07-13T23:19:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:19.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:19.856</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:19.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.030</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.042</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.050</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.059</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.063</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.067</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.071</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.084</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.090</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.094</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.097</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.114</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.118</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.131</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.135</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-05-14T09:24:20.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2021-05-14T09:24:20.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\App3.UWP.xr.xml">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\App3.UWP.xr.xml">
       <PackagePath>App3.UWP.xr.xml</PackagePath>
       <Modified>2021-05-14T09:40:53.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-05-27T10:11:18.700</Modified>
+      <Modified>2021-05-30T07:59:42.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-05-27T10:11:18.701</Modified>
+      <Modified>2021-05-30T07:59:42.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -897,13 +897,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2019-12-12T00:48:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-05-14T09:40:59.378</Modified>
+      <Modified>2021-05-30T07:59:46.491</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Толя\source\repos\App3\App3.UWP\bin\x86\Debug\Core\App3.UWP.exe">
+    <AppxPackagedFile Include="F:\Git_hub\cros_platform\App3\App3.UWP\bin\x86\Debug\Core\App3.UWP.exe">
       <PackagePath>App3.UWP.exe</PackagePath>
-      <Modified>2021-05-27T10:11:22.540</Modified>
+      <Modified>2021-05-30T07:59:48.949</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
