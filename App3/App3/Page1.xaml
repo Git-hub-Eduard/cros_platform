@@ -10,7 +10,7 @@
             <Button x:Name="Button_level" Text="Play" Clicked="Button_level_Clicked"></Button>
             <Button x:Name="Settings" Text="Settings" Clicked="Settings_Clicked"></Button>
             <Button x:Name="Exit" Text="Exit" Clicked="Exit_Clicked"></Button>
-            <Label x:Name="Label2" Text="Я Едуард создаю проект" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Aqua"></Label>
+            <Label x:Name="Label2" Text="Я Едуард создаю проект" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Aqua" ></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
